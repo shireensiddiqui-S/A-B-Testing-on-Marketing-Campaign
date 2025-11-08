@@ -78,7 +78,7 @@ Based on results, the project provides clear recommendations on where marketing 
 ✔ Business-oriented data insights
 ✔ Professional analytics workflow
 
-✅ Author
+✅ Contact
 
 👤 Shireen Siddiqui
 📧 Email_id: shireensiddiqui652@gmail.com
